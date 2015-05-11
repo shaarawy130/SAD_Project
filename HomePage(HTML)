@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Our Company</title>
+    <link href="site.css" rel="stylesheet">
+	
+	<style>
+/* Background Image*/	
+	body{
+	background-image:url(srh5.png);
+	    background-size: 1280px 800px;
+	}
+	
+	</style>
+	<img src="logo1.png"
+	 style="width:170px;height:100px">
+	 
+	 <span style="display:inline-block; width: 10px;"></span>
+	 
+	 <img src="logo2.png"
+	  style="width:170px;height:100px">
+	  
+	 <span style="display:inline-block; width: 30px;"></span>
+	 
+	 <img src="logo3.png"
+	  style="width:840px;height:100px">
+	  
+	  
+<!--For Slider-->	  
+<!-- Start WOWSlider.com HEAD section -->
+<link rel="stylesheet" type="text/css" href="engine1/style.css" />
+<script type="text/javascript" src="engine1/jquery.js"></script>
+<!-- End WOWSlider.com HEAD section -->
+<body>
+
+<nav id="nav01"></nav>
+
+    <div id="main">
+	
